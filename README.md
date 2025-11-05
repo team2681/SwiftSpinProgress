@@ -36,13 +36,10 @@ It offers smooth animations, easy customization, and a clean Material look — p
 <th style="text-align:center;">Dark State</th>
 </tr>
 <tr> 
-<td><img src="images/light.jpg" alt="Loading State" width="202"/></td> 
-<td><img src="images/dark.jpg" alt="Expanded State" width="202"/></td> 
-<td><img src="images/lightG.gif" alt="Collapsed State" width="202"/></td>
-<td><img src="images/darkG.gif" alt="Collapsed State" width="202"/></td>
+<td><img src="images/light.jpg" alt="Light" width="202"/></td> 
+<td><img src="images/dark.jpg" alt="Dark" width="202"/></td>
 </tr> </table>
 
-> Add preview GIFs or screenshots here.
 
 ---
 
