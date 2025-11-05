@@ -279,4 +279,4 @@ Get Kotlin & Android Jetpack Compose tips on `What's App` **Join My Channel** :
 
 This project is licensed under the Apache License 2.0.
 
-See the full license [here](LICENSE).
+See the full license [here](LICENSE.txt).
