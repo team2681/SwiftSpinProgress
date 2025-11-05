@@ -31,9 +31,16 @@ It offers smooth animations, easy customization, and a clean Material look — p
 
 ## 🖼️ Preview
 
-| Light Mode | Dark Mode |
-|-------------|------------|
-| ![Light Preview](https://github.com/anilkumar2681/SwiftSpinProgress/assets/light.gif) | ![Dark Preview](https://github.com/anilkumar2681/SwiftSpinProgress/assets/dark.gif) |
+<table> <tr> 
+<th style="text-align:center;">Light State</th>
+<th style="text-align:center;">Dark State</th>
+</tr>
+<tr> 
+<td><img src="images/light.jpg" alt="Loading State" width="202"/></td> 
+<td><img src="images/dark.jpg" alt="Expanded State" width="202"/></td> 
+<td><img src="images/lightG.gif" alt="Collapsed State" width="202"/></td>
+<td><img src="images/darkG.gif" alt="Collapsed State" width="202"/></td>
+</tr> </table>
 
 > Add preview GIFs or screenshots here.
 
