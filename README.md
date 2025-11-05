@@ -31,7 +31,7 @@ It offers smooth animations, easy customization, and a clean Material look — p
 
 ## Library Dependency
 
-**The CollapsingBar library is published on Maven Central.**
+**The swiftspinprogress library is published on Maven Central.**
 
 ## Requirements
 
