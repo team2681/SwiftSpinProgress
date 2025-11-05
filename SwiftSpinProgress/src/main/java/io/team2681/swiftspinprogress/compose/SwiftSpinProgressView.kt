@@ -68,10 +68,3 @@ fun SwiftSpinProgressView(
     }
 
 }
-@Preview(showBackground = true)
-@Composable
-fun SwiftSpinProgressViewPreview(){
-    SwiftSpinProgressView(
-        isVisible = true
-    )
-}
