@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://search.maven.org/artifact/io.github.team2681/swiftspinprogress"><img src="https://img.shields.io/maven-central/v/io.github.team2681/swiftspinprogress?style=for-the-badge&color=brightgreen" alt="Maven Central"></a>
-  <a href="https://github.com/anilkumar2681/SwiftSpinProgress/LICENSE"><img src="https://img.shields.io/github/license/anilkumar2681/SwiftSpinProgress?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/anilkumar2681/SwiftSpinProgress/tree/main?tab=Apache-2.0-1-ov-file"><img src="https://img.shields.io/github/license/anilkumar2681/SwiftSpinProgress?style=for-the-badge" alt="License"></a>
   <a href="https://github.com/anilkumar2681/SwiftSpinProgress/stargazers"><img src="https://img.shields.io/github/stars/anilkumar2681/SwiftSpinProgress?style=for-the-badge&color=yellow" alt="Stars"></a>
 </p>
 
